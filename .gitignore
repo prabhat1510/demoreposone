@@ -1,0 +1,12 @@
+
+.project
+.classpath
+.settings/
+bin/
+target/
+
+#Subversion files
+.svn
+db/sps/spu_get_tcf_data.sql
+db/sps/spu_get_tcf_data.sql
+
